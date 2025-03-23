@@ -72,7 +72,7 @@ export default function Login() {
 
         <div className="mt-6 text-center text-sm text-gray-600">
           <p>بيانات الاختبار:</p>
-          <p className="mt-2 font-mono">premier@gmail.com / Premair123</p>
+          <p className="mt-2 font-mono">premier@gmail.com / Premier123</p>
         </div>
       </div>
     </div>
